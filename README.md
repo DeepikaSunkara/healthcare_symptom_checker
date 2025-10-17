@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/28a76625-b41e-42dc-a099-9e2d1c39ce61
+
 # Healthcare Symptom Checker
 
 A full-stack web application that helps users check symptoms and get AI-powered insights using **GroqCloud API** with **Llama 3.1** model. Built with **FastAPI** for backend and **React + Vite** for frontend.  
